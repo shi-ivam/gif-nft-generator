@@ -1,14 +1,14 @@
 {
-  "dna": "f9af2c6e19a49379abb0a5cd9dba4357fa230e18",
+  "dna": "9936c5ad4827619a646686a82dd33599aa17df5c",
   "name": "#8",
   "description": "Your project description",
   "image": "ipfs://NewUriToReplace/8.gif",
   "edition": 8,
-  "date": 1653160290892,
+  "date": 1653164620165,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "2"
+      "value": "1"
     },
     {
       "trait_type": "Art",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Art 2",
-      "value": "Pc"
+      "value": "PC "
     },
     {
       "trait_type": "Upper",

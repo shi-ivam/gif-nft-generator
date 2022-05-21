@@ -4,6 +4,7 @@ const path = require("path");
 const isLocal = typeof process.pkg === "undefined";
 const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const lConfig = require("../config/layers.json")
+const format = require('../config/format.json')
 const { MODE } = require(path.join(basePath, "src/blendMode.js"));
 const description =
   "Your project description";
@@ -17,10 +18,6 @@ const shuffleLayerConfigurations = false;
 
 const debugLogs = false;
 
-const format = {
-  width: 1500,
-  height: 500,
-};
 
 const background = {
   generate: true,

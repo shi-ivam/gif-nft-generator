@@ -1,14 +1,14 @@
 {
-  "dna": "0935f5348d1e059c65dbf7b71d526723df37fb95",
+  "dna": "dc5439292d71be2625f142f98a8a516b70444ffa",
   "name": "#3",
   "description": "Your project description",
   "image": "ipfs://NewUriToReplace/3.gif",
   "edition": 3,
-  "date": 1653160290163,
+  "date": 1653164615338,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "1"
+      "value": "4"
     },
     {
       "trait_type": "Art",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Art 2",
-      "value": "Pc"
+      "value": "PC "
     },
     {
       "trait_type": "Upper",
-      "value": "pink"
+      "value": "blue"
     }
   ],
   "compiler": "Generative GIF Engine"
