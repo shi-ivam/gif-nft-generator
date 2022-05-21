@@ -1,0 +1,27 @@
+{
+  "dna": "875394761f271cbb5a0b0158a68441fd7ffafd6f",
+  "name": "#4",
+  "description": "Your project description",
+  "image": "ipfs://NewUriToReplace/4.gif",
+  "edition": 4,
+  "date": 1653160290325,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "4"
+    },
+    {
+      "trait_type": "Art",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Art 2",
+      "value": "Pc"
+    },
+    {
+      "trait_type": "Upper",
+      "value": "blue"
+    }
+  ],
+  "compiler": "Generative GIF Engine"
+}

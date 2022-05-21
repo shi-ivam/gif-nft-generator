@@ -1,0 +1,9 @@
+{
+    "growEditionSizeTo": 20,
+    "layersOrder": [
+        { "name": "Background" },
+        { "name": "Art" },
+        { "name": "Art 2" },
+        { "name": "Upper" }
+    ]
+}
