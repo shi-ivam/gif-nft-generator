@@ -1,27 +1,48 @@
 {
-  "dna": "e154ab2cac66edb3b32a73c2bb02ba47c6099ef0",
+  "dna": "500c33a93bc5c15a5c4e85789b2efe9f9f163931282ae894ce15f8ddc8c75575",
   "name": "#6",
-  "description": "Your project description",
-  "image": "ipfs://NewUriToReplace/6.gif",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "imageHash": "373708f12e6c78357ba188e1f52c95de0f77054d3e3d7afc9bfdf124b0b9b2b5",
   "edition": 6,
-  "date": 1653160290626,
+  "date": 1654194092799,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "3"
+      "trait_type": "09_yo_bg",
+      "value": "yo_bg_03"
     },
     {
-      "trait_type": "Art",
-      "value": "Cat"
+      "trait_type": "08_yo_body",
+      "value": "yo_body_04"
     },
     {
-      "trait_type": "Art 2",
-      "value": "Pc"
+      "trait_type": "07_yo_eye",
+      "value": "yo_Eye_blink Animated"
     },
     {
-      "trait_type": "Upper",
-      "value": "pink"
+      "trait_type": "06_yo_mouth",
+      "value": "yo_mouth_01"
+    },
+    {
+      "trait_type": "05_yo_cloth",
+      "value": "yo_cloth_01"
+    },
+    {
+      "trait_type": "04_yo_accessories",
+      "value": "yo_acc_4"
+    },
+    {
+      "trait_type": "03_yo_hair",
+      "value": "yo_Hairs_Red_4"
+    },
+    {
+      "trait_type": "02_yo_eyebrow",
+      "value": "yo_Eyebrow_Red_2"
+    },
+    {
+      "trait_type": "01_yo_hand",
+      "value": "hand motion-4 Animated"
     }
   ],
-  "compiler": "Generative GIF Engine"
+  "compiler": "HashLips Art Engine - NFTChef fork"
 }

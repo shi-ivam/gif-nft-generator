@@ -1,9 +1,22 @@
 {
-    "growEditionSizeTo": 20,
+    "growEditionSizeTo": 10,
     "layersOrder": [
-        { "name": "Background" },
-        { "name": "Art" },
-        { "name": "Art 2" },
-        { "name": "Upper" }
+        { "name": "09_yo_bg" },
+
+        { "name": "08_yo_body" },
+
+        { "name": "07_yo_eye" },
+
+        { "name": "06_yo_mouth" },
+
+        { "name": "05_yo_cloth" },
+
+        { "name": "04_yo_accessories" },
+
+        { "name": "03_yo_hair" },
+
+        { "name": "02_yo_eyebrow" },
+
+        { "name": "01_yo_hand" }
     ]
 }

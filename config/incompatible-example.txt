@@ -1,0 +1,14 @@
+{
+    //   Red: ["Dark Long"],
+    //   // directory incompatible with directory example
+    //   White: ["rare-Pink-Pompadour"]
+  }
+  
+
+To Set Incompatible Layers Goto -> /project_folder/src/config.js:
+
+  1. On line 98, define the incompatible layers in the following way...
+  2. Assume The Layer Order is Background->Middle->Top
+  3. The Layer that comes first in the order should be the key and the incompatible following layer should be the value. (You can use list to define multiple such layers). 
+  4. The Key and Value should be clean.To set incompatible items, in the incompatible object, use the layer/images cleanName (the name without rarity weight, or .png extension) as a key, and create an array of incompatible layer names (again, clean names). Layers that have space or hyphens in their names should be wrapped in quotes
+  5. View - > https://github.com/nftchef/art-engine#flagging-incompatible-layers for more info
