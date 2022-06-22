@@ -1,3 +1,6 @@
+# GIF NFT Generator
+
+## Please Read The Instructions carefully or the code wont run
 
 Note : Dependency for macOS : brew install pkg-config cairo pango libpng jpeg giflib librsvg
        Dependency for Linux (Ubuntu) : sudo apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
