@@ -1,13 +1,20 @@
 # GIF NFT Generator
 
-## Please Read The Instructions carefully or the code wont run
+## Please Read The Instructions carefully or the code won't run
+
+
+
+### Dependencies
 
 Note : Dependency for macOS : brew install pkg-config cairo pango libpng jpeg giflib librsvg
        Dependency for Linux (Ubuntu) : sudo apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
 
 Note : NFT Generator Code is from - [nftchef](https://github.com/nftchef/art-engine)
 
-Steps:
+-----
+
+
+### Steps:
 
 - 1 : Edit config/layers.json and Update layersOrder value with the Layers Name in Correct order.
     1.1 Add The Layer Files in "unprocessedLayer" folder
